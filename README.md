@@ -7,7 +7,7 @@ Los datos que serán mostrados en este análisis fueron rescatados de la base de
 
 La metodología que se va llevar a cabo es un a muy simple, por medio del *Dockerfile* se usó bajo un contenedor de ubuntu que también incluye un *script de Shell* donde continúe.
 
-Se descargaron los archivos o datos de la página de la Secretaría de Salud sobre [Datos Abiertos Dirección General Epidemióloga].(https://www.gob.mx/salud/documentos/datos-abiertos-152127).
+Se descargaron los archivos o datos de la página de la Secretaría de Salud sobre [Datos Abiertos Dirección General Epidemióloga](https://www.gob.mx/salud/documentos/datos-abiertos-152127).
 
 Se limpiaron los datos primero buscando los que son de Zacatecas donde en estos datos son el número 32 de la entidad, siguiente a eso se va a cortar los datos que no se ocupan donde solo nos vamos a quedar con la edad, el sexo, es indigena y habla lenguage indigenada.
 
