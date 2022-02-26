@@ -13,5 +13,7 @@ Se limpiaron los datos primero buscando los que son de Zacatecas donde en estos 
 
 Esto lo hicimos con los siguiente códigos: 
 
-
+```
+docker run -it --name "covid-19" -e LANG=C.UTF-8 ubuntu
+```
 
